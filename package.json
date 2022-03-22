@@ -1,0 +1,22 @@
+{
+  "name": "computer-science",
+  "version": "1.0.0",
+  "description": "",
+  "main": "computerScience.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcampbell01/Computer-Science.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcampbell01/Computer-Science/issues"
+  },
+  "homepage": "https://github.com/tcampbell01/Computer-Science#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
